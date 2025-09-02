@@ -1,5 +1,6 @@
-# Codon_analysis_pipeline
-# Codon Heatmap and UMAP Analysis in MATLAB
+# Codon_analysis_pipeline - Generate codon Heatmap and UMAP Analysis in MATLAB
+
+[![DOI](https://zenodo.org/badge/1049170879.svg)](https://doi.org/10.5281/zenodo.17038496)
 
 MATLAB scripts for extracting codon usage from CDS FASTA files (NCBI) and visualizing codon or amino acid clustering using UMAP and heatmaps.  
 This repository contains two scripts:
