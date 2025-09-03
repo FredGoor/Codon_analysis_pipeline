@@ -1,4 +1,4 @@
-# Codon_analysis_pipeline - Generate codon Heatmap and UMAP Analysis in MATLAB
+# Codon Clustering Pipeline
 
 [![DOI](https://zenodo.org/badge/1049170879.svg)](https://doi.org/10.5281/zenodo.17038496)
 
