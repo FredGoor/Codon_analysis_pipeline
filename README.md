@@ -2,8 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1049170879.svg)](https://doi.org/10.5281/zenodo.17038496)
 
-MATLAB scripts for extracting codon usage from CDS FASTA files (NCBI) and visualizing codon or amino acid clustering using UMAP and heatmaps.  
-This repository contains two scripts:
+The scripts (i) generate gene-level absolute and relative codon frequency tables, (ii) compute UMAP-based clustering based on codon usage similarity, (iii) reorder genes and codons accordingly and (iv) generate a genomic heatmap showing reordered genes and codons using a color scale indicative of relative codon usage enrichment (yellow) or depletion (blue). 
 
 0. **Start with a list of CDS in a FASTA file**  
    - This can be parsed from NCBI genomes (https://www.ncbi.nlm.nih.gov/datasets/genome/)
