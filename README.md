@@ -85,4 +85,3 @@ An example dataset of cds (`Example/Example.fna`) is provided.
 If you use these scripts in your research, please cite:
 
 Goormaghtigh F. Codon Heatmap and UMAP Analysis in MATLAB. GitHub repository: https://github.com/yourusername/codon-heatmap-matlab
-. DOI: (to be generated via Zenodo).
